@@ -1,0 +1,1 @@
+{"version":3,"file":"UserIdModel.js","sourceRoot":"","sources":["../../../../src/domain/models/UserIdModel.ts"],"names":[],"mappings":";;;AAGA,MAAa,WAAW;IAEpB,MAAM,CAAC,MAAe;QAClB,IAAI,CAAC,CAAC,MAAM,YAAY,WAAW,CAAC;YAAE,OAAO,KAAK,CAAC;QACnD,OAAO,IAAI,CAAC,OAAO,KAAK,MAAM,CAAC,OAAO,CAAC;IACzC,CAAC;CACN;AAND,kCAMC"}

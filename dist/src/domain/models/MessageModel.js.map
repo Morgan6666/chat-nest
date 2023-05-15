@@ -1,0 +1,1 @@
+{"version":3,"file":"MessageModel.js","sourceRoot":"","sources":["../../../../src/domain/models/MessageModel.ts"],"names":[],"mappings":";;;AAGA,MAAa,YAAY;IAYrB,MAAM,CAAC,MAAe;QAClB,IAAI,CAAC,CAAC,MAAM,YAAY,YAAY,CAAC;YAAE,OAAO,KAAK,CAAC;QACpD,OAAO,IAAI,CAAC,YAAY,KAAK,MAAM,CAAC,UAAU,CAAC;IACjD,CAAC;CAEN;AAjBD,oCAiBC"}

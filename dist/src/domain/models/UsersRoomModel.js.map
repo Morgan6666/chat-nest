@@ -1,0 +1,1 @@
+{"version":3,"file":"UsersRoomModel.js","sourceRoot":"","sources":["../../../../src/domain/models/UsersRoomModel.ts"],"names":[],"mappings":";;;AAEA,MAAa,cAAc;IAIvB,MAAM,CAAC,MAAe;QAClB,IAAI,CAAC,CAAC,MAAM,YAAY,cAAc,CAAC;YAAE,OAAO,KAAK,CAAC;QACtD,OAAO,IAAI,CAAC,OAAO,KAAK,MAAM,CAAC,OAAO,CAAC;IACzC,CAAC;CACN;AARD,wCAQC"}

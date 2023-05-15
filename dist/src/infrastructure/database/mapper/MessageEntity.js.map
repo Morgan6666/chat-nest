@@ -1,0 +1,1 @@
+{"version":3,"file":"MessageEntity.js","sourceRoot":"","sources":["../../../../../src/infrastructure/database/mapper/MessageEntity.ts"],"names":[],"mappings":";;;AACA,qCAAmD;AAItC,QAAA,aAAa,GAAG,IAAI,sBAAY,CAAgB;IACzD,IAAI,EAAE,SAAS;IACf,SAAS,EAAE,SAAS;IACpB,OAAO,kCACA,oBAAU,KACb,SAAS,EAAE;YACP,IAAI,EAAE,MAAM;SACf,GACJ;CACJ,CAAC,CAAA"}

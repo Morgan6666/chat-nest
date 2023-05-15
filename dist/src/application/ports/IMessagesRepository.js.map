@@ -1,0 +1,1 @@
+{"version":3,"file":"IMessagesRepository.js","sourceRoot":"","sources":["../../../../src/application/ports/IMessagesRepository.ts"],"names":[],"mappings":";;;;;;;;;AAAA,2CAA4C;AAE5C,2CAAwC;AAGxC,IAAsB,mBAAmB,GAAzC,MAAsB,mBAAoB,SAAQ,qBAAuB;CAAE,CAAA;AAArD,mBAAmB;IADxC,IAAA,mBAAU,GAAE;GACS,mBAAmB,CAAkC;AAArD,kDAAmB"}
